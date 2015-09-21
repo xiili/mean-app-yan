@@ -11,8 +11,8 @@
 		"logfile": "forever.log"
 	},
 	"app": {
-		"name": "myproject",
-		"title": "My Project"
+		"name": "MEAN Company",
+		"title": "MEAN Company"
 	},
 	"platform":"",
 	"server": {
