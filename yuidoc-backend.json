@@ -1,0 +1,11 @@
+{
+    "name": "myproject",
+    "description": "My really cool app!",
+    "version": "0.0.0",
+    "url": "https://github.com/xiili@yahoo.com/myproject",
+    "options": {
+        "paths": ".",
+        "outdir": "yuidocs/backend",
+        "exclude": "node_modules,public,src"
+    }
+}
